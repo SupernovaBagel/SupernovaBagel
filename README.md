@@ -1,4 +1,4 @@
-## Hello there I'm Bagel :D
+## Hello there I'm Riley :D
 
 ### I'm a software/game developer, producer, and Minecraft enjoyer
 - C# is my main language, but I also use Java, C++, and a bit of Python.
